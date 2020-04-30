@@ -1,0 +1,168 @@
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0000-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-1.bmp
+Shading : 47%		ImageCount : 1
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0001-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-2.bmp
+Shading : 43%		ImageCount : 2
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0002-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-3.bmp
+Shading : 44%		ImageCount : 3
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0003-cal-20190101-000634-t106ms-aec0x05b8-aec_gray235-base_img_gray235-bias0-1.bmp
+Shading : 63%		ImageCount : 4
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0004-cal-20190402-172607-t106ms-aec0x05b8-aec_gray235-base_img_gray149-bias0-2.bmp
+Shading : 61%		ImageCount : 5
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0005-cal-20190402-172609-t106ms-aec0x05b8-aec_gray235-base_img_gray95-bias0-3.bmp
+Shading : 60%		ImageCount : 6
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0006-ft-20190402-172615-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 99%		ImageCount : 7
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0007-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 8
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0008-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 9
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0009-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 10
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0010-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 11
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0011-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 12
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0012-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 13
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0013-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 14
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0000-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-1.bmp
+Shading : 47%		ImageCount : 1
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0001-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-2.bmp
+Shading : 43%		ImageCount : 2
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0002-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-3.bmp
+Shading : 44%		ImageCount : 3
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0003-cal-20190101-000634-t106ms-aec0x05b8-aec_gray235-base_img_gray235-bias0-1.bmp
+Shading : 63%		ImageCount : 4
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0004-cal-20190402-172607-t106ms-aec0x05b8-aec_gray235-base_img_gray149-bias0-2.bmp
+Shading : 61%		ImageCount : 5
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0005-cal-20190402-172609-t106ms-aec0x05b8-aec_gray235-base_img_gray95-bias0-3.bmp
+Shading : 60%		ImageCount : 6
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0006-ft-20190402-172615-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 99%		ImageCount : 7
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0007-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 8
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0008-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 9
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0009-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 10
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0010-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 11
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0011-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 12
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0012-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 13
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0013-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 14
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0000-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-1.bmp
+Shading : 47%		ImageCount : 1
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0001-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-2.bmp
+Shading : 43%		ImageCount : 2
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0002-cal-20100101-080020-t62ms-aec0x0358-aec_gray0-base_img_gray0-bias0-3.bmp
+Shading : 44%		ImageCount : 3
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0003-cal-20190101-000634-t106ms-aec0x05b8-aec_gray235-base_img_gray235-bias0-1.bmp
+Shading : 63%		ImageCount : 4
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0004-cal-20190402-172607-t106ms-aec0x05b8-aec_gray235-base_img_gray149-bias0-2.bmp
+Shading : 61%		ImageCount : 5
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0005-cal-20190402-172609-t106ms-aec0x05b8-aec_gray235-base_img_gray95-bias0-3.bmp
+Shading : 60%		ImageCount : 6
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0006-ft-20190402-172615-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 99%		ImageCount : 7
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0007-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 8
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0008-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 9
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0009-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 10
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0010-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 11
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0011-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 12
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0012-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 13
+
+.\silead-fpdata-caldata-0402\2019-04-02---17-59-53\oppo_log\debug@stop@2019 - 04 - 02_17 - 26 - 50 -206\fingerprint
+0000-0013-snr-20190402-172617-t106ms-aec0x05b8-aec_gray235-base_img_gray212-bias0--1019.bmp
+Shading : 67%		ImageCount : 14
+
